@@ -62,3 +62,4 @@ Die Logos kannst du hier "klauen": <https://www.lifbi.de/#member_main>
 * Design Seitenübersichten: <https://app.zeplin.io/project/5ca6ff41139a447afe1a54b3/dashboard>
 * Styleguide für unser CSS: <http://web-dev.neps-data.de/lifbirelaunch_sass/#cards>
 * Bootstrap: <https://getbootstrap.com/docs/4.6/content/images/>
+* Eingebundene Icons: <https://fontawesome.com/v4/icons/>
