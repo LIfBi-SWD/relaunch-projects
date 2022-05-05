@@ -12,6 +12,10 @@ Es lohnt sich für dich für diese erste Aufgabe und den Rest deiner "Computing 
 * Visual Studio Code <https://code.visualstudio.com/>
 * Windows Terminal (falls du Windows benutzt, ansonsten Oh-My-Bash):  <https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=DE>
 
+#### Plugins für Visual Studio Code
+Mit "Live Server" kannst du super einfach einen Testserver starten und die Datein werden gleich bei der Änderung im Browser angezeigt (Hot Reload, super angenehmes Arbeiten)  <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer>
+   
+
 
 ## Git 
 
