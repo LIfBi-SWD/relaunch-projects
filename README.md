@@ -51,3 +51,9 @@ Drei neue Ansichten bauen:
 
 
 Die Farbe der Beschriftung der Projekte sollte auf dunkelblau (in CSS `var(--lifbi-blue-dark)`) gewechselt werden: `#4242b1`.
+
+### Links
+* Styleguide: https://app.zeplin.io/project/5ca6ff41139a447afe1a54b3/styleguide
+* Design Seitenübersichten: https://app.zeplin.io/project/5ca6ff41139a447afe1a54b3/dashboard
+* Styleguide für unser CSS: http://web-dev.neps-data.de/lifbirelaunch_sass/#cards
+* Bootstrap: https://getbootstrap.com/docs/4.6/content/images/
